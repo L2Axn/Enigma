@@ -1,0 +1,80 @@
+body
+{
+    background-color: #f3f3f3;
+    color : #555555;
+    font-family: Garamond;
+}
+
+#apinput
+{
+    color: #FFFAFA;
+    background-color: #000000; 
+    width: 200px;
+    font-family: Garamond;
+    font-weight: bold;
+    font-size: 16px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #555555;
+}
+
+a
+{
+    text-decoration: none;
+    color: #ffb830;
+}
+
+a:visited
+{
+    text-decoration: none;
+    color: #ffb830;
+}
+
+a:hover
+{
+    text-decoration: none;
+    font-weight: bold;
+    color: #4b4b4b;
+}
+
+.reText
+{
+    color: #FFFAFA;
+}
+.reTextBad
+{
+    color: #EF5C5C;
+}
+
+#apsubmit
+{
+	background-color: #000000; 
+	width: 80; 
+	border-style: solid; 
+	border-color: #555555;
+	border-width: thin;
+	color: #FFFAFA;
+	font-weight: bold;
+}
+
+#apsubmit:hover
+{
+	background-color: #000000; 
+	width: 80; 
+	border-style: solid; 
+	border-color: #555555;
+	border-width: thin;
+	color: #ffb830;
+	font-weight: bold;
+}
+
+#apsubmit:active
+{
+	background-color: #000000; 
+	width: 80; 
+	border-style: solid; 
+	border-color: #ffb830;
+	border-width: thin;
+	color: #ffb830;
+	font-weight: bold;
+}
